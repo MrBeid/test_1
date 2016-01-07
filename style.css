@@ -1,0 +1,15 @@
+.menu li{
+display: inline-block;
+text-decoration: none;
+float:left;
+padding: 3px;
+
+}
+.menu_container{
+	background-color: #22427C;
+}
+a{
+	text-decoration: none;
+
+}
+
