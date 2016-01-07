@@ -1,15 +1,33 @@
+
+
+
+.menu{
+	position: relative;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	margin-left: 30%;	
+}
+
+
+
 .menu li{
 display: inline-block;
 text-decoration: none;
-float:left;
-padding: 3px;
+text-align: center;
+padding-right: 15px;
 
 }
 .menu_container{
-	background-color: #22427C;
+	width: 40%;
+	height: 15%;
+	border:1px solid black;
+	margin-left: 30%;
 }
 a{
 	text-decoration: none;
 
 }
 
+a:visited{
+	color: blue;
+}
